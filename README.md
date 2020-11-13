@@ -4,7 +4,6 @@ Use ``npm install`` before use.
 
 This is my first ReactJS project.
 
-Pick your best meme picture and make it funny or boring. It is up to you.
 ![generatorss](https://user-images.githubusercontent.com/45670152/98152849-640e4b80-1ee3-11eb-864b-c410b5355280.png)
 
 I used meme generator API for images.<br>
